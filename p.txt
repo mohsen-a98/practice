@@ -1,3 +1,4 @@
 line 
 message in local git
 for test
+*******
